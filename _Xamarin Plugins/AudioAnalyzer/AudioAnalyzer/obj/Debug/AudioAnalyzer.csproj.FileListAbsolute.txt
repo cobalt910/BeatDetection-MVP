@@ -1,0 +1,17 @@
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\bin\Debug\AudioAnalyzer.dll
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\bin\Debug\AudioAnalyzer.pdb
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\bin\Debug\UnityEditor.dll
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\bin\Debug\UnityEngine.dll
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\bin\Debug\Mono.Cecil.dll
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\bin\Debug\Unity.DataContract.dll
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\bin\Debug\Unity.CecilTools.dll
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\bin\Debug\UnityEditor.xml
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\bin\Debug\UnityEngine.xml
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\obj\Debug\AudioAnalyzer.csprojResolveAssemblyReference.cache
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\obj\Debug\AudioAnalyzer.dll
+C:\Users\cobalt910\Desktop\BeatDetection\Plugins\AudioAnalyzer\AudioAnalyzer\obj\Debug\AudioAnalyzer.pdb
